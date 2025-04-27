@@ -1,3 +1,10 @@
+© 2025 Yarema Mushkevych
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License.
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+
 **what is this file?**
 
   This is an in-depth analysis of the phonology, grammar, writing, and minor worlbuilding of my constructed language, Dokhorian
